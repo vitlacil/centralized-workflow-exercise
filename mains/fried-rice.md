@@ -8,4 +8,5 @@ ingredient
 - ketchup
 
 how to cook
+- Use the yesterday's rice
 - put them in and fry it
