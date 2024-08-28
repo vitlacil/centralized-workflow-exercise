@@ -8,7 +8,7 @@
 - peas
 - mushrooms
 - onions
-- 1 garlic 
+- 1 garlic lll 
 
 
 ## TODO: we need the instructions
